@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MuskanJaiswal1/TextUtils-React/static/css/main.e6c13ad2.css",
+    "main.js": "/MuskanJaiswal1/TextUtils-React/static/js/main.361caddf.js",
+    "static/js/787.0cbdef75.chunk.js": "/MuskanJaiswal1/TextUtils-React/static/js/787.0cbdef75.chunk.js",
+    "index.html": "/MuskanJaiswal1/TextUtils-React/index.html",
+    "main.e6c13ad2.css.map": "/MuskanJaiswal1/TextUtils-React/static/css/main.e6c13ad2.css.map",
+    "main.361caddf.js.map": "/MuskanJaiswal1/TextUtils-React/static/js/main.361caddf.js.map",
+    "787.0cbdef75.chunk.js.map": "/MuskanJaiswal1/TextUtils-React/static/js/787.0cbdef75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.361caddf.js"
+  ]
+}
