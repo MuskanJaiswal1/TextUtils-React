@@ -66,19 +66,19 @@ const [text, setText] = useState('');
         <button className="btn btn-secondary" onClick={()=>handleUpClick()}>
           Convert to upperCase
         </button>
-        <button className="btn btn-secondary mx-2" onClick={()=>handleLowClick()}>
+        <button className="btn btn-secondary mx-2 my-2" onClick={()=>handleLowClick()}>
           Convert to lowerCase
         </button>
-        <button className="btn btn-secondary mx-1" onClick={()=>handleCapitalizeClick()}>
+        <button className="btn btn-secondary mx-1 my-2" onClick={()=>handleCapitalizeClick()}>
           Capitalize
         </button>
-        <button className="btn btn-secondary mx-1" onClick={()=>handleCopy()}>
+        <button className="btn btn-secondary mx-1 my-2" onClick={()=>handleCopy()}>
           Copy Text
         </button>
-        <button className="btn btn-secondary mx-1" onClick={()=>handleExtraSpaces()}>
+        <button className="btn btn-secondary mx-1 my-2" onClick={()=>handleExtraSpaces()}>
           Remove Extra Spaces
         </button>
-        <button className="btn btn-secondary mx-1" onClick={()=>handleClearClick()}>
+        <button className="btn btn-secondary mx-1 my-2" onClick={()=>handleClearClick()}>
           Clear
         </button>
     </div>
